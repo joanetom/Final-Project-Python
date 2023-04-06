@@ -1,0 +1,39 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Drosophila Gene Filter 
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A website that will let you look up specific drosophila traits and returns all the alleles associated with that trait.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+I want to the big database of information that I am working with into a website and create a program that will allow me to filter the phenotypes depending on what I am interested in focusing on. It will let you filter through a bunch pf groups of traits such as sex-biased traits, behavioral traits, traits involving body plan etc. and the list out all traits that fall under the filter and also bring up the genotypic information. This way, I don't have to individually look through hundreds of thoussands of rows of information and only bring up the information that I need.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+I am not planning to combine with another course but instead a lab that I am involved with. The biggest aspect of 1051 that shows is file reading. 
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+TODO, if applicable
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+Making a functional website, uploading all of the big data into the website and creating a very simple function that will indentify trigger words and bring up the phenotypes that include these words. 
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+Creating an interactive, well organized website that functions very smoothly and brings up a list pf organized phenotypes and the genotypic information associated with it. Possibly even the references that prove each data point. 
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+I hope to accomplish something that will aid with my work in the lab and is very user friendly and functional. The best outcome would include something that I can keep using with my work in the lab. 
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+I will be needing to research how to build a website and upload a huge database of information onto this website. I need to research how gene algorithms and databases work. I also want to research how to nicely design a website and make it user friendly. 
+TODO
