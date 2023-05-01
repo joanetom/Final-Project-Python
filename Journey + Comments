@@ -1,0 +1,6 @@
+I originally wanted to create a website of sorts but then decided to lean more towards a graphical kind of interpretation of the data file I wanted to work with. 
+I first cut out two columns ( containing the genes and phenotypes) but had a hard time splitting up the tsv file and decided to just stick with phenotypes. 
+If I could improve my code, I would have each square in the column display the name of the genes that coded for that allele.
+I had problems getting my code to run for the entire data file so I had it read a couple of lines at a time instead as detailed in my video. 
+I learned a lot about the click function in turtle and really got to solidify my knowledge on file reading, dictionaries, turtles, and a lot of other things we had learned in class.
+I am really exicited to apply the framework of this project to other gene databases I may work with and I am certain that this project with aid with my projects in the lab I am involved in. 
